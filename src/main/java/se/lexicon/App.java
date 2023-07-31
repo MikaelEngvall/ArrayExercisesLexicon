@@ -9,14 +9,14 @@ import java.util.Scanner;
  */
 public class App {
     public static void main(String[] args) {
-        // ex1();
-        // ex2();
-        // ex3();
-        // ex4();
-        // ex5();
-        // ex10();
-        // ex11();
-        // ex12();
+        ex1();
+        ex2();
+        ex3();
+        ex4();
+        ex5();
+        ex10();
+        ex11();
+        ex12();
         ex13();
     }
 
